@@ -2,8 +2,7 @@ export default function Navbar() {
 
     return(
         <nav className="navbar" role="navigation" aria-label="main navigation">
-            <div className="navbar-brand">
-            </div>
+          
             <div id="navbarBasicExample" className="navbar-menu">
                 <div className="navbar-start">
                     <a className="navbar-item">
